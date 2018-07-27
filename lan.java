@@ -21,8 +21,8 @@ class Ideone
 	   }
 	}
 	if(isPrime)
-	   System.out.println("no");
-	else
 	   System.out.println("yes");
+	else
+	   System.out.println("no");
 	}
 }
